@@ -1,0 +1,8 @@
+services:
+  mongodb:
+    ports:
+      - 27017:27017
+
+  mysql:
+    ports:
+      - 3306:3306
