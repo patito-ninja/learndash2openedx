@@ -2,6 +2,3 @@ data
 source/*.sql
 target/*.sql
 .env
-ENV
-config.yml
-env
